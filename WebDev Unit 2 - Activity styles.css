@@ -1,0 +1,13 @@
+/* Add CSS styles for your web site here and use them in index.html. */
+body {
+    background-color: black;
+    color: white;
+}
+
+.purple {
+    color:#8142bb;
+}
+
+#aboutWeek {
+    font-style: italic;
+  }
